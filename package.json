@@ -1,8 +1,8 @@
 {
-  "name": "script",
+  "name": "racv",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "core.js",
   "dependencies": {
     "express": "^4.17.1",
     "request": "^2.88.0"
